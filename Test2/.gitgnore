@@ -8,8 +8,6 @@ out/
 *.sln.docstates
 
 .vscode/
-.idea/
-**/appsettings.Development.json
 **/appsettings.Local.json
 **/secrets.json
 
